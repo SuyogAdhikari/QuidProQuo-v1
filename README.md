@@ -1,5 +1,5 @@
 # QuidProQuo-v1
 ## Forth semester Project
-## Copy the database form Database folder to /xampp/mysql/data
+## import database name : appititemanager.sql
 
 ## Front end only
